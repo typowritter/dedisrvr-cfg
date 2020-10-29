@@ -1,0 +1,164 @@
+"第三方图数据 -by 笨蛋海绵"
+{
+        "1"
+        {
+                "中文名"                "死亡中心 Dead Center"
+                "建图代码"              "c1m1_hotel"
+        }
+        "2"
+        {
+                "中文名"                "黑色狂欢节 Dark Carnival"
+                "建图代码"              "c2m1_highway"
+        }
+        "3"
+        {
+                "中文名"                "沼泽激战 Swamp Fever"
+                "建图代码"              "c3m1_plankcountry"
+        }
+        "4"
+        {
+                "中文名"                "暴风骤雨 Hard Rain"
+                "建图代码"              "c4m1_milltown_a"
+        }
+        "5"
+        {
+                "中文名"                "教区 The Parish"
+                "建图代码"              "c5m1_waterfront_sndscape"
+        }
+        "6"
+        {
+                "中文名"                "短暂时刻 The Passing"
+                "建图代码"              "c6m1_riverbank"
+        }
+        "7"
+        {
+                "中文名"                "牺牲 The Sacrifice"
+                "建图代码"              "c7m1_docks"
+        }
+        "8"
+        {
+                "中文名"                "毫不留情 No Mercy"
+                "建图代码"              "c8m1_apartment"
+        }
+        "9"
+        {
+                "中文名"                "坠机险途 Crash Course"
+                "建图代码"              "c9m1_alleys"
+        }
+        "10"
+        {
+                "中文名"                "死亡丧钟 Death Toll"
+                "建图代码"              "c10m1_caves"
+        }
+        "11"
+        {
+                "中文名"                "寂静时分 Dead Air"
+                "建图代码"              "c11m1_greenhouse"
+        }
+        "12"
+        {
+                "中文名"                "血腥收获 Blood Harvest"
+                "建图代码"              "c12m1_hilltop"
+        }
+        "13"
+        {
+                "中文名"                "刺骨寒溪 Cold Stream"
+                "建图代码"              "c13m1_alpinecreek"
+        }
+        "14"
+        {
+                "中文名"                "最后一站 Last Stand"
+                "建图代码"              "c14m1_junkyard"
+        }
+        "15"
+        {
+                "中文名"                "[附加] 异度神召 Divine Cybermancy"
+                "建图代码"              "dworld01_point"
+        }
+        "16"
+        {
+                "中文名"                "[附加] 彼得沃茨克 Z-PTZ"
+                "建图代码"              "appartments"
+        }
+        "17"
+        {
+                "中文名"                "[附加] 可乐之塔 Pasiri"
+                "建图代码"              "l4d2_pasiri1"
+        }
+        "18"
+        {
+                "中文名"                "[附加] 燃烧之夜 Burning Night"
+                "建图代码"              "building"
+        }
+        "19"
+        {
+                "中文名"                "[附加] 伦理问题1 Questionable Ethics"
+                "建图代码"              "qe_1_cliche"
+        }
+        "20"
+        {
+                "中文名"                "[附加] 伦理问题2 Questionable Ethics: Alpha test"
+                "建图代码"              "qe2_ep1"
+        }
+        "21"
+        {
+                "中文名"                "[附加] 死亡时光机 Time to Die"
+                "建图代码"              "l4d2_timemachine_01"
+        }
+        "22"
+        {
+                "中文名"                "[附加] 复杂过程 Complex Course"
+                "建图代码"              "l4d2_cc_stranded"
+        }
+        "23"
+        {
+                "中文名"                "[附加] 遗忘之地 Land of Oblivion"
+                "建图代码"              "threedays01"
+        }
+        "24"
+        {
+                "中文名"                "[附加] 世界之下 Under"
+                "建图代码"              "under1"
+        }
+        "25"
+        {
+                "中文名"                "[附加] 切尔诺贝利 Chernobyl: Chapter One"
+                "建图代码"              "ch01_jupiter"
+        }
+        "26"
+        {
+                "中文名"                "[附加] 活死人黎明 Dead Before Dawn (Extended)"
+                "建图代码"              "l4d_dbde_citylights"
+        }
+        "27"
+        {
+                "中文名"                "[附加] 古墓亡影 One 4 Nine"
+                "建图代码"              "l4d_149_1"
+        }
+        "28"
+        {
+                "中文名"                "[附加] 摩耶山危机 Yama"
+                "建图代码"              "l4d_yama_1"
+        }
+        "29"
+        {
+                "中文名"                "[附加] 寂静岭 Silent Hill: Otherside of Life"
+                "建图代码"              "sh_01"
+        }
+        "30"
+        {
+                "中文名"                "[附加] 再见了晨茗 Farewell Chenming"
+                "建图代码"              "msd1_town"
+        }
+        "31"
+        {
+                "中文名"                "[附加] 秋明市 Qiuming City"
+                "建图代码"              "beta_thecity1"
+        }
+        "32"
+        {
+                "中文名"                "[附加] 故乡 Hometown"
+                "建图代码"              "q_ancienttown"
+        }
+}
+
